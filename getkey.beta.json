@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "content": {
+        "allowed_client_version": "1.5.7",
+        "usage_left": 100,
+        "max_usage": 100,
+        "is_vip_key": true,
+        "vmpkey": "g5ccb1r8c5ng83FDmo4qWyRIye37iWQ6vl52vFpgYp67MZLLDSs5vAo6KNw\/Kz2OaGEizWOdZ88UaJ8V1TC04k+hGHvkgDXGiHdh3po0n1ZSnaNAW+bFNDZI774soo8+hkE9Se47XjRUr\/O5sil5u6eBe1vDBspP3MEwo6U22VAHNPH9rYX8uFdp003SECC40xC05VJpKvPQFX8b0OL\/YRoljE4ubwmFDPftUCmt38zOltSZgOMBRBp+t9LlsOf3\/9Lxw51s6yg30p5rbDyjgNJ4baaNL04lcGv+kIRXEstDC+oZUExQJcYv+KQWMSFa1oHTuppqk70+Q+T7kAWJhg=="
+    }
+}
